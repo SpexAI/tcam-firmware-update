@@ -18,6 +18,7 @@
 
 #include <limits>
 #include <string.h>
+#include <stdexcept>
 
 namespace lib33u
 {
